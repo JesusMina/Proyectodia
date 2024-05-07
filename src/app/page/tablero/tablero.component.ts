@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class TableroComponent implements OnInit {
   palabra!: string;
   palabras = [
-    'perro', 'barco', 'lacio', '´perro', 'carro', 'tierra', 'tomar', 'vivir'
+    'perro', 'barco', 'lacio', 'perro', 'carro', 'tierra', 'tomar', 'vivir'
   ];
   letras: any[] = [];
   nivelDificultad: string = 'facil'; // Por defecto, nivel fácil

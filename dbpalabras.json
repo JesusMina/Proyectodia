@@ -1,0 +1,12 @@
+{
+    "palabras": [
+        { "id": 1, "palabra": "romeo" },
+        { "id": 2, "palabra": "barco" },
+        { "id": 3, "palabra": "lucio" },
+        { "id": 4, "palabra": "carta" },
+        { "id": 5, "palabra": "carro" }    
+    ],
+    "record":[
+        {"id": 1, "email": "julissaherrera360@gmail.com", "time": 600 }
+    ]
+}
